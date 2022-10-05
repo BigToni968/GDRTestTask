@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7b1b1af37a766b41b2de40838438997, type: 3}
+  m_Name: Source
+  m_EditorClassIdentifier: 
+  _maxCoins: 5
+  _maxSpike: 10
+  _player: {fileID: 5903032832137970705, guid: ce6105ef1637298419270af7fd94782b, type: 3}
+  _coin: {fileID: 571831570544029727, guid: a8674951d1393ea4193db98781480bc2, type: 3}
+  _spike: {fileID: 2643472339510206937, guid: 5a0050b00dd37f44e80b309625aad29c, type: 3}
